@@ -5,8 +5,8 @@ int num;
 printf("digite um numero inteiro: ");
 scanf("%d",&num);
 if(num%2==0){
-printf("Par");
+printf("0");
 }
 else
-printf("Ímpar");
+printf("1");
 }
